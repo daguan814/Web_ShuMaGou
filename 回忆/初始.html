@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <title>这是一个开始</title>
+    <style>
+        /* id 只能有一个 但是class可以使用多次  ID搭配js */
+        /* 复合样式顺序 font: font-style(样式：斜体或者不是） font-wight（粗细400或者700） font-size/linehight（大小 12px ） font-family（字体）*/
+
+        body {   /*选中某个大的模块直接 不需要# 或者 .*/
+            text-align: center;/*可 left right center */
+        }
+
+        a{
+            text-decoration :none;   
+        }
+
+        #top {      /* 这是ID选择器的 */
+            text-decoration :underline;  /* underlinr下划线  line_through 删除线  overline 上划线  none 取消下划线 */
+            color: coral;
+            font: normal 700 24px "Microsoft YaHei", "宋体";
+           
+        }
+
+        .zuozhe {
+            color: brown;
+            font: normal 400 16px "宋体","微软雅黑";
+        }
+
+        .zhuti {
+            font: normal 400 20px "宋体","微软雅黑";
+        }
+
+        .download {
+            font: normal 600 14px "宋体","微软雅黑";
+        }
+
+        .totop {
+            color: pink;
+            font: normal 700 14px "宋体","微软雅黑";
+        }
+       
+        .jianjie {
+            text-align: left;
+            font:  normal 700 14px "宋体","微软雅黑";
+        }
+        
+        .wenzhang{
+            text-indent: 2em;  /*2em 是两个文字的距离 30px 表示缩进是30个像素*/
+        }
+    </style>
+</head>
+<body>
+
+    <h2 id="top"> 清平调·一枝红艳露凝香</h2>
+    <h4 class="zuozhe"><strong>唐·李白</strong></h4>
+
+    <div>
+        <p class="zhuti">   &lt;一枝红艳露凝香，云雨巫山枉断肠。&gt; </p>
+    </div>
+    <p class="zhuti" style="color: pink">   &lt;借问汉宫谁得似，可怜飞燕倚新妆。&gt;   </p>
+
+
+    <!-- p 段落标签  em 字体为斜体 ins 下划线  del 删除线  h 标题  strong 加粗
+        div 固定这一行 lt 小于号 gt 大于号  &nbsp; 空格-->
+
+
+    <a href="https://www.bilibili.com/video/BV14J4114768?p=77" target="_blank"> <img src="img/family.jpg" alt="对不起 图片无法显示" title="点击去b站学习" width="350" border="2" /> </a>
+
+    <a href="副页1.html" target="_blank"><img src="img/libai.jfif" alt="李白喝酒去了" title="点击去ai网" width="275" border="4" /><br /></a>
+
+    <p class="jianjie"><br />李白人物简介：<br /></p>
+    <p class="jianjie wenzhang">
+        李白（701年－762年） ，字太白，号青莲居士，是唐代伟大的浪漫主义诗人，被后人誉为“诗仙”。据《新唐书》记载bai，李白为兴圣皇帝（凉武昭王李暠）九世孙，与李唐诸王同宗。其人爽朗大方，爱饮酒作诗，喜交友。<br />
+    </p>
+    <p class="jianjie wenzhang">
+        李白深受黄老列庄思想影响，有《李太白集》传世，诗作中多以醉时写的，代表作有《望庐山瀑布》《行路难》《蜀道难》《将进酒》《梁甫吟》《早发白帝城》等多首。<br /><br />
+    </p>
+
+    <a href="file/ps2020.zip" target="_blank" class="download"> <p>下载文件</p></a>
+    <br />
+    <a href="#top" class="totop"><p>回到顶部</p></a> 
+
+</body>
+</html>
