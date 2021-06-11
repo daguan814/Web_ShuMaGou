@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>这是一个登录程序</title>
+    <style>
+div{
+    width : 100%;
+    height: 50px;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+form{
+    text-align : center;
+}
+   </style>
+</head>
+<body>
+<div>
+<form >
+    账号:<input id="zhanghao" type="text">
+    <br>
+    密码：<input id="mima" type="password">
+    <br>
+    <button type="submit">登录</button>
+</form>
+
+</div>
+</body>
+<script>
+    var tton = document.querySelector('button')
+    tton.onclick = function () {
+        var zhang = document.querySelector("#zhanghao").value
+        var mima = document.querySelector("#mima").value
+        if(zhang == '1' && mima == "123"){
+            alert("登陆成功！")
+        }
+    }
+</script>
+
+</html>
