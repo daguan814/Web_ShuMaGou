@@ -84,6 +84,7 @@ window.onload = function () {
 
     jiesuan.onclick = function (){
         alert("您的消费总金额是："+price)
+        window.open("../结算/success.html")
     }
 
 
