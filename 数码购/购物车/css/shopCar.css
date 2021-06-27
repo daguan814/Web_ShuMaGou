@@ -35,9 +35,9 @@ ul {
 .content, 
 .foot,
 .footer {
-    width: 980px;
+    width: 1080px;
 
-    margin-left: auto;
+    margin-left: 225px;
     margin-right: auto;
     margin-top: 40px;
 }

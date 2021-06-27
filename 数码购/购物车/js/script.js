@@ -25,11 +25,16 @@ window.onload = function () {
     var foot = document.getElementById('foot');
     var selectedViewList = document.getElementById('selectedViewList');
     var deleteAll = document.getElementById('deleteAll');
+    //自己内容
+    var jiesuan = document.querySelector("#jiesuan")
+    var zongjine = document.querySelector("#priceTotal").value
 
+
+    var price = 0;
     //计算
     function getTotal() {
         var seleted = 0;
-        var price = 0;
+
         var HTMLstr = '';
         for (var i = 0, len = tr.length; i < len; i++) {
             if (tr[i].getElementsByTagName('input')[0].checked) {
@@ -76,6 +81,11 @@ window.onload = function () {
             getTotal();
         }
     }
+
+    jiesuan.onclick = function (){
+        alert("您的消费总金额是："+price)
+    }
+
 
     selected.onclick = function () {
         if (foot.className == 'foot') {
