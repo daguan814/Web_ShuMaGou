@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>购物车</title>
+    <!-- <link rel="stylesheet" href="css/style.css"/> -->
+    <link rel="stylesheet" href="css/normalize.css" type="text/css" />
+    <link rel="stylesheet" href="css/shopCar.css" type="text/css" />
+    <script type="text/javascript" src="js/script.js"></script>
+</head>
+<body>
+
+<div class="wrapper">
+    <div class="head">
+        <ul class="fl">
+            <li><a href="../index.html"><img src="../images/logo.png"></a></li>
+            <li class="space"></li>
+            <li><span class="bigger">我的订单</span></li>
+        </ul>
+        <ul class="fr">
+
+
+
+        </ul>
+    </div>
+    <div class="nav">您的订单号为：118454897844151414215</div>
+    <div class="content">
+        <table id="cartTable">
+            <thead>
+            <tr>
+
+                <th>商品</th>
+                <th>单价</th>
+                <th>数量</th>
+                <th>小计</th>
+                <th>操作</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="checkbox">1</td>
+                <td class="goods"><img src="image/1.png" alt=""/><span> 英伟达 RTX3080 TI</span></td>
+                <td class="price">5999.88</td>
+                <td class="count">
+                    <span class="reduce"></span>
+                    <input class="count-input" type="text" value="1"/>
+                    <span class="add">+</span></td>
+                <td class="subtotal">5999.88</td>
+
+            </tr>
+            <tr>
+                <td class="checkbox">2</td>
+                <td class="goods"><img src="image/2.png" alt=""/><span>xiaomi 11 ultra</span></td>
+                <td class="price">3888.50</td>
+                <td class="count"><span class="reduce"></span><input class="count-input" type="text" value="1"/><span class="add">+</span></td>
+                <td class="subtotal">3888.50</td>
+
+            </tr>
+            <tr>
+                <td class="checkbox">3</td>
+                <td class="goods"><img src="image/3.png" alt=""/><span>任天堂Switch NS主机 Lite游戏掌机 续航加强版 动物之森日版国行</span></td>
+                <td class="price">1428.50</td>
+                <td class="count"><span class="reduce"></span><input class="count-input" type="text" value="1"/><span class="add">+</span></td>
+                <td class="subtotal">1428.50</td>
+
+            </tr>
+            <tr>
+                <td class="checkbox">4</td>
+                <td class="goods"><img src="image/4.png" alt=""/><span>美国brookstone猫耳耳机无线蓝牙头戴式电竞耳机女发光猫耳朵耳机 </span></td>
+                <td class="price">640.60</td>
+                <td class="count"><span class="reduce"></span><input class="count-input" type="text" value="1"/><span class="add">+</span></td>
+                <td class="subtotal">640.60</td>
+
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="foot" id="foot">
+        <label class="fl select-all"> &nbsp;</label>
+        <a class="fl delete" id="deleteAll" href="javascript:;"></a>
+
+        <div class="fr total">合计：￥<span id="priceTotal">18563.22</span></div>
+        <div class="fr selected" id="selected">已选商品
+            <span id="selectedTotal">4</span>件
+            <span class="arrow up">︽</span>
+            <span class="arrow down">︾</span>
+        </div>
+        <div class="selected-view">
+            <div id="selectedViewList" class="clearfix">
+                <!--<div><img src="images/1.jpg"><span>取消选择</span></div>-->
+            </div>
+            <span class="arrow">◆<span>◆</span></span>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="link">
+            <p>
+                <a href="#">关于数码购平台</a>
+                <span>|</span>
+                <a href="#">常见问题</a>
+                <span>|</span>
+                <a href="#">违规投诉</a>
+                <span>|</span>
+                <a href="#">开放平台</a>
+                <span>|</span>
+                <a href="#">用户协议</a>
+                <span>|</span>
+                <a href="#">客服电话：</a>
+                <a class="c" href="#">400-1010-001</a>
+            </p>
+        </div>
+    </div>
+</div>
+
+
+
+</body>
+</html>
+
+
+
+
+
