@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="401230e7-cab5-46bc-9bd2-98f15b46cac7" name="Default Changelist" comment="" />
+    <list default="true" id="401230e7-cab5-46bc-9bd2-98f15b46cac7" name="Default Changelist" comment="Default Changelist">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/交易/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/交易/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/交易/image/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/交易/image/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/交易/image/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/交易/image/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/交易/image/r1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/交易/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/交易/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/商品详情/comody.html" beforeDir="false" afterPath="$PROJECT_DIR$/商品详情/comody.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/登陆后/css/loginindex.css" beforeDir="false" afterPath="$PROJECT_DIR$/登陆后/css/loginindex.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/登陆后/image/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/登陆后/image/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/登陆后/image/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/登陆后/image/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/登陆后/image/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/登陆后/image/r1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/登陆后/loginindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/登陆后/loginindex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/登陆注册/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/登陆注册/register.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1uRCtpxq5KTOQc2E23cjFRBj2tK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,6 +45,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="401230e7-cab5-46bc-9bd2-98f15b46cac7" name="Default Changelist" comment="" />
@@ -32,11 +56,17 @@
       <option name="presentableId" value="Default" />
       <updated>1624619231188</updated>
       <workItem from="1624619232379" duration="4567000" />
+      <workItem from="1624963969964" duration="2879000" />
+      <workItem from="1625120776714" duration="5715000" />
+      <workItem from="1625207405717" duration="5520000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -48,5 +78,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

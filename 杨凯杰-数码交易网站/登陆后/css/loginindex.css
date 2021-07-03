@@ -178,9 +178,9 @@ header .user-card .unlogin .ID {
 	margin-top: 15px;
 }
 .recom ul li {
-	width: 222px;
-	height: 270px;
-	background-color: #eee5d4;   /*#d9c360;*/
+	width: 220px;
+	height: 330px;
+	background-color: #ffffff;   /*#d9c360;*/
 	/*overflow: hidden;   溢出隐藏 */
 	/* box-shadow:水平阴影 垂直阴影 模糊距离 阴影尺寸 阴影颜色  内/外阴影； */
 	float: left;
@@ -201,6 +201,7 @@ header .user-card .unlogin .ID {
 }
 .over {
 	overflow: hidden;
+
 }
 .recom li h5, 
 .recom li p {
