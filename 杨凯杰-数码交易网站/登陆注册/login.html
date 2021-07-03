@@ -4,6 +4,8 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>豪俊数码城用户登录</title>
+    <!-- 引入js初始化文件 -->
+    <script type="text/javascript" src="css/114514.js"></script>
     <!-- 引入css初始化文件 -->
     <link rel="stylesheet" href="css/normalize.css" type="text/css" />
     <!-- 专属的首页样式 -->
@@ -25,17 +27,19 @@
         <div class="nav"></div>
         <div class="content">
             <div class="mod-reg">
+                <form>
                 <div class="reg-content">
                     <div class="name" > 用&ensp;户&ensp;名： 
-                    <input type="text" id="" name="" placeholder="请输入用户名" class=""> 
+                    <input type="text" id="admin" name="" placeholder="请输入用户名" class="">
                     </div>
                     <div class="code" > 密&emsp;&emsp;码： 
-                    <input type="password" id="" name="" placeholder="请输入密码" class=""> 
+                    <input type="password" id="password" name="" placeholder="请输入密码" class="">
                     </div>
                     <div class="submit" > 
-                    <input type="submit" id="" name="" value="登&nbsp&nbsp录" class="submitbutton"> 
+                    <input type="submit" id="" name="" value="登&nbsp&nbsp录" class="submitbutton" onclick="login()">
                     </div>
                 </div>
+                </form>
                 <div class="picture"></div>
             </div>
         </div>
