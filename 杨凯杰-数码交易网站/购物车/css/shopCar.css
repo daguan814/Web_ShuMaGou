@@ -222,7 +222,7 @@ table img {
     margin: 0 20px;
     cursor: pointer;
 }
-.foot  #priceTotal, .foot #selectedTotal {
+.foot  #priceTotal {
     color: red;
     font-family: "Microsoft Yahei";
     font-weight: bold;
