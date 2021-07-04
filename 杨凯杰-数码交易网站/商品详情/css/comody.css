@@ -59,14 +59,15 @@ img{ border:0px;}
 
  /*logo_search*/
 .header .logobg{
-	 height:111px; 
-	 background:url(../images/index_img/backlogoimg01.jpg)  center no-repeat;
+	 height:111px;
+	 background: #ffffff;
 	 }
 .header .center{
 	 width:1200px; 
 	 margin:0 auto;
 	  height:112px;
 	  position:relative;
+
 	   }
 .header .center .logo{
 	 margin-top:19px;
