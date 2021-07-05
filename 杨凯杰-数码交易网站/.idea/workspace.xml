@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="401230e7-cab5-46bc-9bd2-98f15b46cac7" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/登陆注册/css/114514.js" beforeDir="false" afterPath="$PROJECT_DIR$/登陆注册/css/114514.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/登陆注册/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/登陆注册/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/登陆注册/css/register.css" beforeDir="false" afterPath="$PROJECT_DIR$/登陆注册/css/register.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/登陆注册/css/zhuce.js" beforeDir="false" afterPath="$PROJECT_DIR$/登陆注册/css/zhuce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/登陆注册/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/登陆注册/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/登陆注册/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/登陆注册/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625458768829</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Default Changelist">
+      <created>1625461282528</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1625461282528</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
