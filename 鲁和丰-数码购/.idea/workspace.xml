@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f715ef7-1230-4ca2-9ebd-6cd28811fea1" name="默认变更列表" comment="11">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../杨凯杰-数码交易网站/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../杨凯杰-数码交易网站/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../杨凯杰-数码交易网站/登陆注册/css/114514.js" beforeDir="false" afterPath="$PROJECT_DIR$/../杨凯杰-数码交易网站/登陆注册/css/114514.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../杨凯杰-数码交易网站/登陆注册/css/zhuce.js" beforeDir="false" afterPath="$PROJECT_DIR$/../杨凯杰-数码交易网站/登陆注册/css/zhuce.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +15,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1uoIzztaRoTqTAnMhAPiZ3476ff" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../杨凯杰-数码交易网站" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.space" />
   </component>
   <component name="RecentsManager">
@@ -59,6 +62,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11" />
