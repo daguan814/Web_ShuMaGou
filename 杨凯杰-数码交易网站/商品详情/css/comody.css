@@ -63,16 +63,14 @@ img{ border:0px;}
 	 background: #ffffff;
 	 }
 .header .center{
-	 width:1200px; 
+
 	 margin:0 auto;
 	  height:112px;
 	  position:relative;
 
 	   }
 .header .center .logo{
-	 margin-top:19px;
-	 margin-left:120px;
-	 float:left;
+
 	 }
 #searchForm{
 	position:absolute;
@@ -110,7 +108,7 @@ img{ border:0px;}
 }
 /*导航部分*/
 .header .bottom{ 
-	width:1200px; height:39px; 
+	height:39px;
 	margin:0 auto;
 	line-height:39px; 
 	background-image:url(../images/index_img/backmenuimg.jpg);
@@ -355,7 +353,7 @@ img{ border:0px;}
 }
 
 .classify .shopsee{
-	width:198px;height:3750px;
+	width:198px;
 	border:1px solid #ccc;
 	margin-top:20px;
 }
@@ -383,8 +381,8 @@ img{ border:0px;}
 
 .classify .shopsee .ex01 p{
 	margin-top:0;
-	width:170px;height:20px;
-	margin-left:40px;
+	width:170px;
+	margin-left:10px;
 	line-height:20px;
 	font-size:14px;
 }
