@@ -42,7 +42,7 @@ a:hover {
 	color: #c81623;
 }
 body {
-	background-color: #f6f6f6;
+	background-color: #ee3919;
 }
 
 /*快速导航栏 begin*/
@@ -77,6 +77,7 @@ header {
 	height: 345px;
 	/*background-color: #020000;*/
     position: relative;
+	margin: 0 auto;
 }
 header .user-card {
     width: 250px;

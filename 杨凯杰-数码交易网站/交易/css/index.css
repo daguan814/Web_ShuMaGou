@@ -42,7 +42,7 @@ a:hover {
 	color: #c81623;
 }
 body {
-	background-color: #f6f6f6;
+	background-color: #EE3919;
 }
 
 /*快速导航栏 begin*/
@@ -72,6 +72,7 @@ body {
 /*快速导航栏 over*/
 
 /*header部分*/
+
 header {
 	height: 345px;
 	/*background-color: #020000;*/
@@ -312,135 +313,7 @@ header .user-card .unlogin .tip {
 .footer-ico a:nth-child(6) {
 	background: url(../image/ico_footer.png) no-repeat -103px -216px;
 }
-/*.footer {
-	height: 500px;
-	background-color: #EAEAEA;
-	margin-top: 35px;
-}
-.footer a {
-	color: #666;
-}
-.footer a:hover {
-	color: #f10215;
-}
-.service {
-	padding: 30px 0;
-	border-bottom: 1px solid #DEDEDE;
-	overflow: hidden;
-}
-.service ul li {
-	width: 297px;
-	height: 43px;
-	position: relative;
-	line-height: 43px;
-	float: left;
-}
-.service li h5 {
-	position: absolute;
-	top: 0;
-	left: 38px;
-	width: 36px;
-	height: 43px;
-	background: url(../images/ico.png) no-repeat;
-}
-.service li p {
-	font-weight: 700;
-	margin-left: 82px;
-}
-.service li:nth-child(2) h5 {
-	background-position:  0 -43px;
-}
-.service li:nth-child(3) h5 {
-	background-position:  0 -86px;
-}
-.service li:nth-child(4) h5 {
-	background-position:  0 -129px;
-}
-.help {
-	height: 200px;
-	border-bottom: 1px solid #DEDEDE;
-	padding-top: 25px;
-	box-sizing: border-box;
-}
-.help dl {
-	width: 192px;
-	float: left;
-}
-.help dt,
-.coverage h5 {
-	height: 30px;
-	font-size: 14px;
-	color: #666;
-}
-.help dd {
-	height: 22px;
-}
-
-.coverage {
-	width: 200px;
-	height: 150px;
-	background: url("../images/ico_footer.png") no-repeat;
-}
-.coverage h5 {
-	padding-left: 35px;
-}
-.coverage p {
-	font-size: 12px;
-	color:#666;
-	line-height: 18px;
-	width: 180px;
-}
-.coverage a {
-	display: block;
-	margin-top: 5px;
-	width: 180px;
-	text-align: right;
-}
-.copyright {
-    padding-top: 20px;
-    text-align: center;
-    color: #666;
-    font-size: 12px;
-}
-.copyright span {
-	margin:0 10px;
-}
-.copyright div p {
-	line-height: 22px;
-}
-.copyright div {
-	margin-top: 20px;
-}
-.footer-ico a {
-	display: inline-block;
-	width: 103px;
-	height: 33px;
-	text-align: center;  
-	background: url(../images/ico_footer.png) no-repeat 0 -150px;
-	margin: 20px 4px 0px;
-}
-.footer-ico a:nth-child(2) {
-	background: url(../images/ico_footer.png) no-repeat -103px -150px;
-}
-.footer-ico a:nth-child(3) {
-	background: url(../images/ico_footer.png) no-repeat 0 -183px;
-}
-.footer-ico a:nth-child(4) {
-	background: url(../images/ico_footer.png) no-repeat -103px -183px;
-}
-.footer-ico a:nth-child(5) {
-	background: url(../images/ico_footer.png) no-repeat 0px -216x;
-}
-.footer-ico a:nth-child(6) {
-	background: url(../images/ico_footer.png) no-repeat -103px -216px;
-}
-*/
 
 
 
-
-
-
-
-/*页面底部分 start*/
 
