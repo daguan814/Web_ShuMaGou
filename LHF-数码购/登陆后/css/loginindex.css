@@ -42,7 +42,7 @@ a:hover {
 	color: #c81623;
 }
 body {
-	background-color: #f6f6f6;
+	background-color: #ee3919;
 }
 
 /*快速导航栏 begin*/
@@ -55,6 +55,7 @@ body {
 .city {
 	margin-left: 50px;
 }
+
 .shortcut li{
 	float: left;
 }
@@ -76,6 +77,7 @@ header {
 	height: 345px;
 	/*background-color: #020000;*/
     position: relative;
+	margin: 0 auto;
 }
 header .user-card {
     width: 250px;
@@ -143,7 +145,7 @@ header .user-card .unlogin .ID {
 	/*width: 1040px;*/
 	height: 60px;
 	line-height: 60px;
-	background-color: #9caf44;
+	background-color: #f67a00;
 	margin-top: 20px;
 	box-shadow: 0 2px 2px rgba(0,0,0,0.5);
 	border-radius: 4px;
@@ -178,9 +180,9 @@ header .user-card .unlogin .ID {
 	margin-top: 15px;
 }
 .recom ul li {
-	width: 222px;
-	height: 270px;
-	background-color: #eee5d4;   /*#d9c360;*/
+	width: 220px;
+	height: 330px;
+	background-color: #ffffff;   /*#d9c360;*/
 	/*overflow: hidden;   溢出隐藏 */
 	/* box-shadow:水平阴影 垂直阴影 模糊距离 阴影尺寸 阴影颜色  内/外阴影； */
 	float: left;
@@ -201,6 +203,7 @@ header .user-card .unlogin .ID {
 }
 .over {
 	overflow: hidden;
+
 }
 .recom li h5, 
 .recom li p {

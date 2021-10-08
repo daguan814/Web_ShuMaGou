@@ -1,42 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<<< HEAD:LHF-数码购/.idea/workspace.xml
     <list default="true" id="802f1bed-06c1-4a83-9cb9-ee294b15ec9e" name="Default Changelist" comment="" />
+========
+    <list default="true" id="401230e7-cab5-46bc-9bd2-98f15b46cac7" name="Default Changelist" comment="Default Changelist" />
+>>>>>>>> origin/main:杨凯杰-数码交易网站/.idea/workspace.xml
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+<<<<<<<< HEAD:LHF-数码购/.idea/workspace.xml
   <component name="ProjectId" id="1utSUrQa9SmDA09oVqAPq3S18lS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+========
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1uRCtpxq5KTOQc2E23cjFRBj2tK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>>> origin/main:杨凯杰-数码交易网站/.idea/workspace.xml
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Web_Project\杨凯杰-数码交易网站\结算" />
+      <recent name="F:\Web_Project\杨凯杰-数码交易网站" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="802f1bed-06c1-4a83-9cb9-ee294b15ec9e" name="Default Changelist" comment="" />
       <created>1625483412640</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<<< HEAD:LHF-数码购/.idea/workspace.xml
       <updated>1625483412640</updated>
       <workItem from="1625483414827" duration="1992000" />
+========
+      <updated>1624619231188</updated>
+      <workItem from="1624619232379" duration="4567000" />
+      <workItem from="1624963969964" duration="2879000" />
+      <workItem from="1625120776714" duration="5715000" />
+      <workItem from="1625207405717" duration="5520000" />
+      <workItem from="1625483271972" duration="18000" />
     </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1625323051125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625323051125</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Default Changelist">
+      <created>1625324296635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625324296635</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Default Changelist">
+      <created>1625325562394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625325562394</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1625328180776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625328180776</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Default Changelist">
+      <created>1625328282070</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625328282070</updated>
+>>>>>>>> origin/main:杨凯杰-数码交易网站/.idea/workspace.xml
+    </task>
+    <task id="LOCAL-00006" summary="Default Changelist">
+      <created>1625329329065</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1625329329065</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Default Changelist">
+      <created>1625380817432</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1625380817432</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Default Changelist">
+      <created>1625455272613</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1625455272613</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Default Changelist">
+      <created>1625455405921</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1625455405921</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Default Changelist">
+      <created>1625458354302</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1625458354303</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Default Changelist">
+      <created>1625458768829</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1625458768829</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Default Changelist">
+      <created>1625461282528</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1625461282528</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Default Changelist">
+      <created>1625480784783</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1625480784783</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -48,5 +191,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
 </project>
